@@ -37,8 +37,6 @@ I’m a cybersecurity enthusiast focused on learning practical offensive and def
 ---
 
 ## 🔖 Badges & Tags
-(Clickable/replaceable — swap username where needed)
-
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-active-9cf?logo=data:image/png;base64,)](https://tryhackme.com)  
 [![Kali Linux](https://img.shields.io/badge/Kali-Linux-black?logo=kali-linux)](https://www.kali.org/)  
 [![CTF Player](https://img.shields.io/badge/CTF-Player-orange)]  
@@ -49,8 +47,6 @@ I’m a cybersecurity enthusiast focused on learning practical offensive and def
 ---
 
 ## 📊 GitHub Stats
-> Replace `YOUR_GITHUB_USERNAME` with your username to show your live stats.
-
 ![Nesrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=uvsq22505821&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvsq22505821&layout=compact&theme=dark)
