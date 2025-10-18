@@ -2,13 +2,13 @@
 **Cybersecurity Enthusiast · Pentester-in-training · CTF Player**
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=follow&style=social">
+  <a href="https://github.com/uvsq22505821">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/uvsq22505821?label=follow&style=social">
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nesrine.benchallal@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-contact-red?style=flat-square">
   </a>
 </p>
@@ -51,14 +51,14 @@ I’m a cybersecurity enthusiast focused on learning practical offensive and def
 ## 📊 GitHub Stats
 > Replace `YOUR_GITHUB_USERNAME` with your username to show your live stats.
 
-![Nesrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![Nesrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=uvsq22505821&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uvsq22505821&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uvsq22505821&theme=dark)
 
 <!-- Optional trophies if you want fancy badges -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=uvsq22505821&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -79,33 +79,11 @@ I’m a cybersecurity enthusiast focused on learning practical offensive and def
 ---
 
 ## 💬 How to reach me
-- Email: `your.email@example.com`  
+- Email: `nesrine.benchallal@gmail.com`  
 - LinkedIn: `https://www.linkedin.com/in/YOUR-LINKEDIN/`  
-- Twitter / X: `@your_handle` (optional)  
 
----
-
-## 📚 Certifications & Achievements (example)
-- TryHackMe — [Insert room badges or certificate links]  
-- OSCP study (in progress) — learning path and labs  
-- Local/University project: Cybersecurity graduation project (June 2024).  
-
----
-
-## ✍️ Blog & Writeups
-I write summaries and walkthroughs for rooms & CTFs — add links to your blog or Medium here.
 
 ---
 
 ## ⚡ Fun facts
 - I enjoy solving CTF challenges with a cup of coffee ☕  
-- I contribute to small open-source security tools and notes.
-
----
-
-### 🙏 Want this README to show your live GitHub stats?
-1. Replace `YOUR_GITHUB_USERNAME` with your GitHub username in the file above.  
-2. Make sure the `README.md` is inside a repository named exactly as your GitHub username (e.g., `YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME`).  
-3. Commit & push — the stat cards will render automatically.
-
----
